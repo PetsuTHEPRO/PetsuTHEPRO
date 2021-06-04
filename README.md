@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetsuTHEPRO&show_icons=true&theme=tokyonight) ![Alt text](https://github.com/PetsuTHEPRO/PetsuTHEPRO/blob/main/gui-2457114_640.png?raw=true "Title")
+<div style="display: inline_block">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetsuTHEPRO&show_icons=true&theme=tokyonight) 
+
+![Alt text](https://github.com/PetsuTHEPRO/PetsuTHEPRO/blob/main/gui-2457114_640.png?raw=true "Title")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetsuTHEPRO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
