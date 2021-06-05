@@ -1,6 +1,6 @@
 ### Olá, Me chamo José Peterson 👋
 
-- 🔭 Eu atualmente estou trabalhando como Freelancer na Plataforma 99freelas.com.
+- 🔭 Eu atualmente estou trabalhando como Freelance na Plataforma 99freelas.com.
 - 🌱 Estou aprendendo Java.
 - ⚡ Um fato divertido: Me chama de louco por gostar de aprender Java. 
 
