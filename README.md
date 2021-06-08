@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 <img align="right" alt="Rafa-yoda" height="30" width="40" src="https://gif-avatars.com/img/150x150/yoda-1.gif">
 </div>
   
-##
   
 ![Snake animation](https://github.com/PetsuTHEPRO/PetsuTHEPRO/blob/output/github-contribution-grid-snake.svg)
