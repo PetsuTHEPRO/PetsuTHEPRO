@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-Yoda" src="http://1.bp.blogspot.com/-9O0kLsLLzWw/VQ8dzAkjHwI/AAAAAAAAOiU/yTHqm4YkULs/s1600/8%2Bbit%2B10.gif">
+  <img align="right" alt="Rafa-Yoda" src="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2017/10/Internet.gif">
 </div>
  
  ##
