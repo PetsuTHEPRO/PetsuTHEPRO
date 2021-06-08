@@ -33,8 +33,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="http://media.giphy.com/media/3oz8xXYDoGM0QUDnfW/giphy.gif">
+  <img align="right" alt="Rafa-yoda" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif">
 </div>
-  
+ 
+ ##
   
 ![Snake animation](https://github.com/PetsuTHEPRO/PetsuTHEPRO/blob/output/github-contribution-grid-snake.svg)
