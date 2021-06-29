@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Eu atualmente estou trabalhando como Freelance na Plataforma 99freelas.com.
-- 🌱 Estou aprendendo Java.
+- 🌱 Estou realizando o Bootcamp de Data Enginer do Carrefour.
 - ⚡ Um fato divertido: Me chama de louco por gostar de aprender Java. 
 
 
