@@ -40,7 +40,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="right" alt="Rafa-Yoda" src="https://media2.giphy.com/media/cNkfdJuSHZ4hF7jK3d/giphy.gif">
 </div>
+
 </br>
+
 ### Estou aprendendo
 <div style="display: inline_block"></br>
    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
