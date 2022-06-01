@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetsuTHEPRO&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 
-### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
@@ -40,12 +40,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img align="right" alt="Rafa-Yoda" src="https://media2.giphy.com/media/cNkfdJuSHZ4hF7jK3d/giphy.gif">
 </div>
-
+</br>
 ### Estou aprendendo
 <div style="display: inline_block"></br>
    <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 </div>
- ##
   
 ![Snake animation](https://github.com/PetsuTHEPRO/PetsuTHEPRO/blob/output/github-contribution-grid-snake.svg)
