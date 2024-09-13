@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img align="right" alt="Rafa-Yoda" src="https://media2.giphy.com/media/cNkfdJuSHZ4hF7jK3d/giphy.gif">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://icons8.com.br/icon/rY6agKizO9eb/vue-js"/>
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:400/0*K2ovtMil6X6nYrB5.png"/>
 </div>
 
 </br>
