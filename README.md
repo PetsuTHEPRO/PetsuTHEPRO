@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" alt="Vue.js" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:400/0*K2ovtMil6X6nYrB5.png"/>
   <img align="center" alt="Electron.js" height="30" width="30" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png"/>
-  <img aligh="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
+  <img aligh="center" style="margin-top: 5px" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
 </div>
 
 </br>
